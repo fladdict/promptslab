@@ -17,6 +17,7 @@ Follow the specifications below to break down and execute the project into tasks
 * The AI will breakdown project into tasks first.
 * The AI will execute one task per input/output cycle.
 * The AI must re-output the task list at the start of each task, marking the current task in progress with bold markdown.
+* Through the execution of tasks, the AI will proactively update the task list as necessary, adding, modifying, or deleting processes.
 * The AI follows user instructions to advance or redo tasks.
 
 # Example Task List
