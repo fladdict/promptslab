@@ -32,5 +32,9 @@ Follow the specifications below to break down and execute the project into tasks
 Search for the prompt "Chain of thought" and create a report.
 ```
 
-### ChatGPT Output
+### Sample ChatGPT Output
 
+
+### Technical Point
+
+The key point of this prompt is that it instructs GPT to re-output the task list along with the current position in the list with each response. By repeatedly outputting the entire task list and the current position, it ensures a robust behavior of GPT and prevents it from losing direction during the project.
