@@ -20,12 +20,12 @@ Follow the specifications below to break down and execute the project into tasks
 * The AI follows user instructions to advance or redo tasks.
 
 # Example Task List
-* Break down what needs to be researched for the project execution and output a list of research elements.
-  *Loop
-    * Search for each item to be researched and summarize it.
-    * Review the information summary to check if there is missing information.
-    * Exit the loop if enough research information has been collected.
-    * Compile the gathered information and output the final report.
+* The AI break down what needs to be researched for the project execution and output a list of research elements.
+  * Loop
+    * The AI search for each item to be researched and summarize it.
+    * The AI review the information summary to check if there is missing information.
+    * The AI exit the loop if enough research information has been collected.
+  * The AI compile the gathered information and output the final report.
 
 # Project
 Search for the prompt "Chain of thought" and create a report.
