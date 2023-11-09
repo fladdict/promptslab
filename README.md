@@ -8,6 +8,7 @@ Auto agent without coding, works on ChatGTP (BING)
 
 
 ### Prompt
+
 ```
 You are an AI agent tasked with executing a series of tasks step-by-step.
 Follow the specifications below to break down and execute the project into tasks.
