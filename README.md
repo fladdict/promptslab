@@ -4,7 +4,8 @@ Super Crazy Prompt Lab.
 ## No-code Auto Agent Prompting
 
 ### About Prompt
-Auto agent without coding, works on ChatGTP (BING). Works like [AutoGPT](https://autogpt.net/).
+Auto agent without coding, works on [ChatGTP (BING)](https://chat.openai.com/). 
+It's ChatGPT version [AutoGPT](https://autogpt.net/).
 
 
 ### Prompt
